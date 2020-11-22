@@ -1,1 +1,1 @@
-cobaaja.cpp
+#include<iostream>
